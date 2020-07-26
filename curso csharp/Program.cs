@@ -6,7 +6,8 @@ namespace curso_csharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ola NAtalia!");
+            Console.WriteLine("testando o git");
         }
     }
 }
